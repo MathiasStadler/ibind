@@ -1,8 +1,6 @@
 *This library is currently being beta-tested. See something that's broken? Did we get something
 wrong? [Create an issue and let us know!][issues]*
 
-
-
 <p align="center">
     <a id="ibind" href="#ibind">
         <img src="https://raw.githubusercontent.com/Voyz/ibind/master/media/ibind_logo.png" alt="IBind logo" title="IBind logo" width="600"/>
@@ -129,7 +127,6 @@ while True:
     print(ws_client.get(ibkr_ws_key))
 ```
 
-
 ## Licence
 
 See [LICENSE](https://github.com/Voyz/ibind/blob/master/LICENSE)
@@ -171,7 +168,6 @@ Or if you'd just want to give something back, I've got a Buy Me A Coffee account
 
 Thanks and have an awesome day 👋
 
-
 [ibeam]: https://github.com/Voyz/ibeam
 [examples]: https://github.com/Voyz/ibind/blob/master/examples
 [issues]: https://github.com/Voyz/ibind/issues
@@ -183,7 +179,6 @@ Thanks and have an awesome day 👋
 [ibkr-endpoints]: https://ibkrcampus.com/ibkr-api-page/cpapi-v1/#endpoints
 [ibkr-websocket]: https://ibkrcampus.com/ibkr-api-page/cpapi-v1/#websockets
 [web-api]: https://www.interactivebrokers.com/campus/ibkr-api-page/webapi-doc
-
 
 [wiki]: https://github.com/Voyz/ibind/wiki
 [wiki-installation]: https://github.com/Voyz/ibind/wiki/Installation
